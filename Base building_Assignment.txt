@@ -1,0 +1,25 @@
+1.     What is the  Internet? Explain in your own words
+
+Sol      The internet is like a massive, interconnected web that links millions of computers and devices worldwide. It's a vast network that facilitates the exchange of information, allowing people to connect, share, and access information among them ,enabling seamless communication and data transfer between devices. Whether we are  sending emails, browsing websites, or engaging in online activities, the internet serves as the underlying framework that makes it all possible. Our daily life communication are based on directly or indirectly on internet nowadays. Example: To sell something ,to buy something ,to buy food, to exchange information and many more.
+
+
+2. What  is a web browser? Explain in your own words
+
+Sol  A web browser is a software application that allows users to access and interact with information on the internet. It serves as a gateway to the vast world of websites, enabling users to view text, images, videos, and other types of content. Think of a web browser as a tool that translates the complex code of websites into the visually appealing and user-friendly interfaces we see on our screens.
+
+
+3. What is a browser engine? Explain in your own words
+
+Sol A browser engine is like the brain of your web browser. When you visit a website, the engine reads the website's code and decides how to show it on your screen. It makes sure everything looks right and works well, including images, text, and buttons. Different browsers may use different engines, and the engine's quality can affect how fast and smoothly your browser works. A browser engine  is a core component of a web browser responsible for interpreting and rendering the content of websites.
+
+
+4. What is a  static site? Explain in your own words
+
+Sol  In a static website, the content remains fixed or unchanging unless the web developer manually updates the code. Every user sees the same information, regardless of their interactions or inputs. These sites are usually simpler and quicker to load because the content is pre-built and doesn't change dynamically.
+
+
+5. What is a dynamic site? Explain in your own words
+
+Sol  A dynamic website's content can change based on user interactions, preferences, or real-time data. Dynamic websites can offer personalized experiences, interactive features, and real-time updates. They are suitable for large-scale sites, online applications, or any platform where content needs to be frequently updated or customized.
+
+
